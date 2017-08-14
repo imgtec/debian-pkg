@@ -1,0 +1,8 @@
+apt-get install screen
+apt-get install tmuxapt-get install vim
+apt-get install unzip
+
+apt-get install net-tools
+apt-get install iptables-persistent
+
+apt-get install sudo
